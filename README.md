@@ -32,6 +32,6 @@
 ---
 
 ### 📫 Связаться со мной:
-* ✉️ **Email:** [ваш-email@example.com]
-* 💬 **Telegram:** [@ваш-ник-в-тг]
+* ✉️ **Email:** [v.a.s@mail.ru]
+* 💬 **Telegram:** [@vostryakovas]
 
