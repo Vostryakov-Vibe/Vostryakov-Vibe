@@ -26,7 +26,7 @@
 ### 📈 Моя активность на GitHub:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app" alt="Alexey's Stats" />
+  <img src="https://github-readme-stats.vercel.app" alt="Vostryakov-Vibe Stats" />
 </p>
 
 ---
@@ -34,5 +34,3 @@
 ### 📫 Связаться со мной:
 * ✉️ **Email:** [v.a.s@mail.ru](mailto:v.a.s@mail.ru)
 * 💬 **Telegram:** [@asvostryakov](https://t.me)
-
-
