@@ -33,5 +33,5 @@
 
 ### 📫 Связаться со мной:
 * ✉️ **Email:** [v.a.s@mail.ru]
-* 💬 **Telegram:** [@vostryakovas]
+* 💬 **Telegram:** [@asvostryakov]
 
