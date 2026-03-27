@@ -19,6 +19,16 @@
 
 ---
 
+### 🛠 Мой стек технологий:
+
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io🌊-blue?style=for-the-badge&v=1" />
+</p>
+
+
 ### 📈 Моя активность на GitHub:
 *(Карточка статистики появится ниже, когда вы сделаете хотя бы один коммит)*
 
