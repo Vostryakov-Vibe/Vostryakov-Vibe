@@ -20,7 +20,7 @@
 ### 📈 Моя активность на GitHub:
 
 <p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=Vostryakov-Vibe&show_icons=true&theme=tokyonight" alt="Vostryakov Stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Vostryakov-Vibe&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Vostryakov Stats" />
 
 </p>
 
