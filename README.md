@@ -1,16 +1,37 @@
-## Hi there 👋
+# Привет! Я Алексей Востряков 👋 
 
-<!--
-**Vostryakov-Vibe/Vostryakov-Vibe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Database Engineer | Python Developer | Vibe-coder
 
-Here are some ideas to get you started:
+Я специализируюсь на проектировании архитектур баз данных и разработке на Python. Верю в концепцию **Vibe-coding**: когда фокус смещен с рутины на созидание и чистый поток мыслей.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Мой стек технологий:
+
+#### 📊 Базы данных и SQL:
+![PostgreSQL](https://img.shields.io)
+![PL/SQL](https://img.shields.io)
+![SQL](https://img.shields.io)
+
+#### 🐍 Программирование:
+![Python](https://img.shields.io)
+![Vibe-coding](https://img.shields.io🌊-blue?style=for-the-badge)
+
+#### 🚀 Инструменты:
+![Git](https://img.shields.io)
+![Docker](https://img.shields.io)
+
+---
+
+### 📈 Моя активность на GitHub:
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app" alt="Alexey's Stats" />
+</p>
+
+---
+
+### 📫 Связаться со мной:
+* ✉️ **Email:** [ваш-email@example.com]
+* 💬 **Telegram:** [@ваш-ник-в-тг]
+
