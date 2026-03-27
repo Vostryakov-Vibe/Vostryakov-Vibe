@@ -8,22 +8,21 @@
 
 ### 🛠 Мой стек технологий:
 
-#### 📊 Базы данных и SQL:
-<img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" />
+**📊 Базы данных:** 
+`PostgreSQL` | `Oracle PL/SQL` | `SQL`
 
-#### 🐍 Программирование:
-<img src="https://img.shields.io" /> <img src="https://img.shields.io🌊-blue?style=for-the-badge" />
+**🐍 Программирование:** 
+`Python` | `Vibe-coding 🌊`
 
-#### 🚀 Инструменты:
-<img src="https://img.shields.io" /> <img src="https://img.shields.io" />
+**🚀 Инструменты:** 
+`Git` | `Docker`
 
 ---
 
 ### 📈 Моя активность на GitHub:
+*(Карточка статистики появится ниже, когда вы сделаете хотя бы один коммит)*
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app" alt="Vostryakov-Vibe Stats" />
-</p>
+![Stats](https://github-readme-stats.vercel.app)
 
 ---
 
