@@ -8,31 +8,21 @@
 
 ### 🛠 Мой стек технологий:
 
-**📊 Базы данных:** 
-`PostgreSQL` | `Oracle PL/SQL` | `SQL`
-
-**🐍 Программирование:** 
-`Python` | `Vibe-coding 🌊`
-
-**🚀 Инструменты:** 
-`Git` | `Docker`
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vibe--coding-flow-blue?style=for-the-badge" />
+  </p>
 
 ---
 
-### 🛠 Мой стек технологий:
+### 📈 Моя активность на GitHub:
 
 <p align="left">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io🌊-blue?style=for-the-badge&v=1" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Vostryakov-Vibe&show_icons=true&theme=tokyonight" alt="Vostryakov Stats" />
+
 </p>
-
-
-### 📈 Моя активность на GitHub:
-*(Карточка статистики появится ниже, когда вы сделаете хотя бы один коммит)*
-
-![Stats](https://github-readme-stats.vercel.app)
 
 ---
 
