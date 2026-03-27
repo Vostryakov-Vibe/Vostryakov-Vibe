@@ -9,17 +9,13 @@
 ### 🛠 Мой стек технологий:
 
 #### 📊 Базы данных и SQL:
-![PostgreSQL](https://img.shields.io)
-![PL/SQL](https://img.shields.io)
-![SQL](https://img.shields.io)
+<img src="https://img.shields.io" /> <img src="https://img.shields.io" /> <img src="https://img.shields.io" />
 
 #### 🐍 Программирование:
-![Python](https://img.shields.io)
-![Vibe-coding](https://img.shields.io🌊-blue?style=for-the-badge)
+<img src="https://img.shields.io" /> <img src="https://img.shields.io🌊-blue?style=for-the-badge" />
 
 #### 🚀 Инструменты:
-![Git](https://img.shields.io)
-![Docker](https://img.shields.io)
+<img src="https://img.shields.io" /> <img src="https://img.shields.io" />
 
 ---
 
