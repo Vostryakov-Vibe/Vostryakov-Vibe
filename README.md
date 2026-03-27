@@ -32,6 +32,7 @@
 ---
 
 ### 📫 Связаться со мной:
-* ✉️ **Email:** [v.a.s@mail.ru]
-* 💬 **Telegram:** [@asvostryakov]
+* ✉️ **Email:** [v.a.s@mail.ru](mailto:v.a.s@mail.ru)
+* 💬 **Telegram:** [@asvostryakov](https://t.me)
+
 
