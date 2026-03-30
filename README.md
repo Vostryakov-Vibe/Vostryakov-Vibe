@@ -21,6 +21,8 @@
 
 <p align="left">
   <img src="https://github-readme-stats.shion.dev/api?username=Vostryakov-Vibe&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true&v=5" /> 
+  <img src="https://github-readme-stats.shion.dev" alt="Top Langs" />
+
 </p>
 
 ---
